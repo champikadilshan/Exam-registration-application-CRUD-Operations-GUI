@@ -1,0 +1,14 @@
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\bin\Debug\ExamRegistration.exe.config
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\bin\Debug\ExamRegistration.exe
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\bin\Debug\ExamRegistration.pdb
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.csproj.AssemblyReference.cache
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.Properties.Resources.resources
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.csproj.GenerateResource.cache
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.csproj.CoreCompileInputs.cache
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.exe
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.pdb
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.register.resources
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.login.resources
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.display.resources
+C:\Users\dilshan\source\repos\ExamRegistration\ExamRegistration\obj\Debug\ExamRegistration.Form1.resources
